@@ -1,0 +1,23 @@
+p, li{
+    color: #212121;
+    font-size: 25px;
+}
+
+p, li, h1{
+    text-align: center;
+}
+
+html{
+    background-color: #4FC3F7;
+}
+
+img{
+    width: 400px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
